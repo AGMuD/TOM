@@ -1,5 +1,6 @@
 # TOM – Archiv
-Hier finden Sie frühere Versionen und Informationen zu TOM.
+Hier finden Sie **frühere Versionen** und Informationen zu TOM.
+Die aktuelle Version finden Sie [hier](https://github.com/AGMuD/TOM/blob/main/TOM1_2_10_15.pdf).
 
 ## Archivierte Dokumente:
 - TOM 1.1 in der korrigierten Fassung vom 23.01.2015

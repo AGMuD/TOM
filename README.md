@@ -13,4 +13,4 @@ Download: [TOM 1.2 in der Fassung vom Oktober 2015](https://github.com/AGMuD/TOM
 
 Ein abschließender Hinweis: Bitte begnügen Sie sich als kommunales Medienzentrum bei Bestellungen mit der Forderung nach „TOM-Standard“. Verzichten Sie bitte auf die Angabe einer Versionsnummer. Die Versionierung ist vom Produktionsjahr der Online-Produktion abhängig. Die Versionsnummern sind letztlich nur für Produzenten sowie Distributoren relevant. – Falsche, bzw. dem Produktionsjahr widersprechende Versionsangaben in Bestellungen haben in mehreren Fällen zu Verwirrungen bei Produzenten und Distributoren geführt.
 
-Hier finden Sie das Tom-Archiv mit älteren Fassungen und Informationen.
+Im ordner [Archiv](https://github.com/AGMuD/TOM/tree/main/Archiv) finden Sie das Tom-Archiv mit älteren Fassungen und Informationen.
